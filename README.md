@@ -1,1 +1,1 @@
-# run-sdk-demo
+# Run SDK NFT Minting Demo
